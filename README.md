@@ -331,6 +331,16 @@ sudo apt install -y \
     libboost-all-dev libssl-dev \
     nlohmann-json3-dev libwebsocketpp-dev \
 ```
+Clone these repo:
+
+| Library              | Purpose                                            | Repository / Source                                                | License       |
+|----------------------|----------------------------------------------------|---------------------------------------------------------------------|---------------|
+| **WebSocket++**      | Asynchronous WebSocket client for L2 streaming     | [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp)      | BSD 3-Clause  |
+| **Boost**            | Threading, system I/O, error handling              | [boostorg/boost](https://github.com/boostorg/boost)                | Boost License |
+| **OpenSSL**          | TLS encryption and SSL certificate handling        | [openssl/openssl](https://github.com/openssl/openssl)              | Apache 2.0    |
+| **nlohmann/json**    | JSON parsing and serialization for payloads        | [nlohmann/json](https://github.com/nlohmann/json)                  | MIT           |
+| **Qt 5 (QtBase)**    | Graphical user interface (UI) framework            | [qt/qtbase](https://github.com/qt/qtbase)                          | LGPL / GPL    |
+
 To run:
 
 ```bash
