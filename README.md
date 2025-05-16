@@ -352,3 +352,10 @@ make
 ```
 
 ![UI](image/UI.png)
+
+## 📽️ Video Demonstration
+
+[![Watch Demo](https://i.imgur.com/8fKQ0eP.png)](https://drive.google.com/file/d/1g76l1jJwi8hTetj1vnfKMTfXcOGk9TVU/view?usp=sharing)
+
+🔗 **[Click here to watch the detailed explanation](https://drive.google.com/file/d/1g76l1jJwi8hTetj1vnfKMTfXcOGk9TVU/view?usp=sharing)**
+
