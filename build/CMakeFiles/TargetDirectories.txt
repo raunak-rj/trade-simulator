@@ -1,0 +1,6 @@
+/home/raunak/trade-simulator/build/CMakeFiles/ws_core.dir
+/home/raunak/trade-simulator/build/CMakeFiles/core.dir
+/home/raunak/trade-simulator/build/CMakeFiles/trade_simulator.dir
+/home/raunak/trade-simulator/build/CMakeFiles/edit_cache.dir
+/home/raunak/trade-simulator/build/CMakeFiles/rebuild_cache.dir
+/home/raunak/trade-simulator/build/CMakeFiles/trade_simulator_autogen.dir

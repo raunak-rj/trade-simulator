@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_main.dir/src/main.cpp.o -o run_main  libcore.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lpthread /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.74.0 

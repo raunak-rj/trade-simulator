@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a CMakeFiles/core.dir/utils/featureExtractor.cpp.o CMakeFiles/core.dir/utils/labelOrderbook.cpp.o CMakeFiles/core.dir/utils/snapshotHandler.cpp.o CMakeFiles/core.dir/utils/makerTakerLabel.cpp.o CMakeFiles/core.dir/utils/trainLogistic.cpp.o CMakeFiles/core.dir/utils/almgrenEstimator.cpp.o CMakeFiles/core.dir/utils/trainSlippageModel.cpp.o CMakeFiles/core.dir/models/slippageRegressor.cpp.o CMakeFiles/core.dir/models/logisticRegressor.cpp.o CMakeFiles/core.dir/models/almgrenChrissModel.cpp.o
+/usr/bin/ranlib libcore.a

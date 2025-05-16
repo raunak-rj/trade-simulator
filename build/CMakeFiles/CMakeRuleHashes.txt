@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b712740c03d228eed9fc5741301a9c06 CMakeFiles/trade_simulator_autogen

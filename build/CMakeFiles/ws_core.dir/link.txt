@@ -1,0 +1,2 @@
+/usr/bin/ar qc libws_core.a CMakeFiles/ws_core.dir/websocket/webSocketClient.cpp.o
+/usr/bin/ranlib libws_core.a
