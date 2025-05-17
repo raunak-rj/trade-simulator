@@ -350,6 +350,7 @@ cmake ..
 make
 ./trade_simulator
 ```
+Note:- If build exist then delete the build and follow the above bash command. Remember to clone all the above github repo under thirdparty directory. 
 
 ![UI](image/UI.png)
 
